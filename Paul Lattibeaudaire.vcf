@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Paul Lattibeaudaire;;;
+FN: Paul Lattibeaudaire
+ORG:Brightway, The Lattibeaudaire Agency;
+TITLE:Licensed Agency Owner
+EMAIL;type=INTERNET;type=WORK;type=pref:paul.lattibeaudaire@brightway.com
+TEL;type=WORK;type=VOICE:+1 9546284030
+TEL;type=SERVICE;type=VOICE:+1 8882545014
+item1.ADR;type=WORK;type=pref:;;8400 N University Drive Suite 206;Tamarac;FL;33321;United States of America
+item1.X-ABADR:sg
+item2.URL;type=pref:BrightwayLattibeaudaire.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
